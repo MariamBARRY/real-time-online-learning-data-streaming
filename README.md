@@ -1,4 +1,4 @@
-# Online Learning Deployment for Real-Time Applications
+# Real-Time Online Learning Operationalization for Big Data Streaming Applications
 
 This repository is the official implementation of the paper **Online Learning Deployment for Real-Time MLOps in Banking submitted to RTSS 2022** The ressources can be used to set up and deploy instances of online machine learning models, to generate predictions and update the model weights on streaming data. This Readme is hosted using on anonymous Github to comply with double blind process.
 
