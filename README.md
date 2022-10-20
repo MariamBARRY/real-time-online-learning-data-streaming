@@ -1,6 +1,6 @@
 # Real-Time Online Learning and Deployment for Data Streaming Applications
 
-This repository is the official implementation of the paper **Online Learning Deployment for Real-Time MLOps in Banking submitted to RTSS 2022** The ressources can be used to set up and deploy instances of online machine learning models, to generate predictions and update the model weights on streaming data. This Readme is hosted using on anonymous Github to comply with double blind process.
+This repository is the official implementation of the paper **{Online Learning from Streaming Data: Challenges and Lessons Learned for Real-Time Applications** The ressources can be used to set up and deploy instances of online machine learning models, to generate predictions and update the model weights on streaming data. This Readme is hosted using on anonymous Github to comply with double blind process.
 
 > **Motivations** Our goal is to propose platform to provide a seamless bridge between data science-centric activities and data engineering activities, in a way that satisfies both the imposed production constraints in term of scalability and streaming application requirements in term of online learning. Examples of potential use cases can be anomaly and fraud detection for time-evolving data streams or real-time classification of user activities or IT or logs events. This is can be a real accelerator to gain in pro-activity for real world problems solving.
 
